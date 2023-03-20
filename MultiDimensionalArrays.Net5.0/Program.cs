@@ -19,5 +19,8 @@ namespace MultiDimensionalArrays.Net5._0
                 { 4, 5, 6 },
                 { 7, 8, 9 }
             };
+
+            Console.WriteLine("Central value is {0}", array2D[1,1]);
+        }
     }
 }
