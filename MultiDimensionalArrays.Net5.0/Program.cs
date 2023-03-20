@@ -6,7 +6,8 @@ namespace MultiDimensionalArrays.Net5._0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Declare 2-D array
+            string[,] matrix;
         }
     }
 }
