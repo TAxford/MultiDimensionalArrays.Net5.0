@@ -11,6 +11,13 @@ namespace MultiDimensionalArrays.Net5._0
 
             // declare 3-D array
             int[,,] threeD;
-        }
+
+            // two dimensional array
+            int[,] array2D = new int[,]
+            {
+                { 1, 2, 3 },
+                { 4, 5, 6 },
+                { 7, 8, 9 }
+            };
     }
 }
